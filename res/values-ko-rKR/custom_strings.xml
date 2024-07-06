@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">통화 연결 시 진동</string>
     <string name="incall_vibrate_call_wait_title">통화 대기 시 진동</string>
     <string name="incall_vibrate_disconnect_title">통화 종료 시 진동</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">거슬리는 알림</string>
-    <string name="notification_sound_vib_screen_on_summary">화면이 켜져있을 때 소리 및 진동으로 알림</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">화면이 켜질 때 한 번만 밝기 조절</string>
     <string name="auto_brightness_one_shot_summary">자동 밝기 조절을 화면이 켜질 때 단 한 번만 실행</string>

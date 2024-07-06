@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">Vibra alla risposta</string>
     <string name="incall_vibrate_call_wait_title">Vibra quando la chiamata è in attesa</string>
     <string name="incall_vibrate_disconnect_title">Vibra al riaggancio</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Notifiche fastidiose</string>
-    <string name="notification_sound_vib_screen_on_summary">Riproduci suoni e vibrazione per le notifiche quando lo schermo è attivo</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">Luminosità automatica singola</string>
     <string name="auto_brightness_one_shot_summary">La regolazione della luminosità avverrà nel momento in cui lo schermo viene acceso</string>

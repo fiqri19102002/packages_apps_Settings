@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">Manginig sa pag konek</string>
     <string name="incall_vibrate_call_wait_title">Manginig habang naghihintay sa tawag</string>
     <string name="incall_vibrate_disconnect_title">Manginig sa pagpatay ng tawag</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Annoying Notifications</string>
-    <string name="notification_sound_vib_screen_on_summary">Magpatugtug and pagalawin sa notification kapag buhay ang screen</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
     <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>

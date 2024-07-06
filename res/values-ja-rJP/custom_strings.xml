@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">接着信時に振動させる</string>
     <string name="incall_vibrate_call_wait_title">割込通話時に振動</string>
     <string name="incall_vibrate_disconnect_title">切断時の振動</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">不必要な通知</string>
-    <string name="notification_sound_vib_screen_on_summary">画面点灯時に通知の音とバイブレーションを鳴らす</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">画面点灯時にのみ適用する</string>
     <string name="auto_brightness_one_shot_summary">画面が点灯した時に一度だけ、自動で画面の明るさ調整を行います</string>

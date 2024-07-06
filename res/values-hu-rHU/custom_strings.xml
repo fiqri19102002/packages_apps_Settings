@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">Rezgés a kapcsolat létrejöttekor</string>
     <string name="incall_vibrate_call_wait_title">Rezgés hívásvárakoztatáskor</string>
     <string name="incall_vibrate_disconnect_title">Rezgés a hívás bontásakor</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Bosszantó Értesítések</string>
-    <string name="notification_sound_vib_screen_on_summary">Értesítésjelzés hanggal és rezgéssel, ha a képernyő be van kapcsolva</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">Egylövéses automata-fényerő</string>
     <string name="auto_brightness_one_shot_summary">A fényerőbeállítás csak a képernyő bekapcsolásának pillanatában történik</string>

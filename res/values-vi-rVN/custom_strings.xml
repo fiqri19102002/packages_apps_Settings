@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">Rung khi kết nối</string>
     <string name="incall_vibrate_call_wait_title">Rung khi chờ cuộc gọi</string>
     <string name="incall_vibrate_disconnect_title">Rung khi ngắt kết nối</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Thông báo làm phiền</string>
-    <string name="notification_sound_vib_screen_on_summary">Phát âm thanh và rung để thông báo khi màn hình bật</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">Tự động điều chỉnh độ sáng một lần</string>
     <string name="auto_brightness_one_shot_summary">Điều chỉnh độ sáng sẽ chỉ thực hiện tại thời điểm màn hình được bật</string>

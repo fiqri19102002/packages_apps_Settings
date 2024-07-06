@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">Wibracja przy odebraniu</string>
     <string name="incall_vibrate_call_wait_title">Wibracja przy połączeniu oczekującym</string>
     <string name="incall_vibrate_disconnect_title">Wibracje przy rozłączeniu</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Irytujące powiadomienia</string>
-    <string name="notification_sound_vib_screen_on_summary">Odtwarzaj dźwięk i wibracje dla powiadomień, gdy ekran jest włączony</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">Jednorazowa jasność automatyczna</string>
     <string name="auto_brightness_one_shot_summary">Regulacja jasności nastąpi tylko w momencie włączenia ekranu</string>

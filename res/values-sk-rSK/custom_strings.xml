@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">Vibrovať pri pripojení</string>
     <string name="incall_vibrate_call_wait_title">Vibrovať pri čakajúcom hovore</string>
     <string name="incall_vibrate_disconnect_title">Vibrovať pri odpojení</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Otravné oznámenia</string>
-    <string name="notification_sound_vib_screen_on_summary">Prehrať zvuk a vibrácie pre upozornenia, keď je obrazovka zapnutá</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">Jednorázový automatický jas</string>
     <string name="auto_brightness_one_shot_summary">Úprava jasu sa vykoná iba vo chvíli, keď sa zapne obrazovka</string>

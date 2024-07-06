@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">Δόνηση κατά τη σύνδεση</string>
     <string name="incall_vibrate_call_wait_title">Δόνηση στην αναμονή κλήσης</string>
     <string name="incall_vibrate_disconnect_title">Δόνηση στον τερματισμό</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Ενοχλητικές ειδοποιήσεις</string>
-    <string name="notification_sound_vib_screen_on_summary">Ήχος και δόνηση ειδοποιήσεων όταν η οθόνη είναι ενεργή</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">Αυτόματη φωτεινότητα μιας φοράς</string>
     <string name="auto_brightness_one_shot_summary">Η ρύθμιση φωτεινότητας θα πραγματοποιηθεί μόνο τη στιγμή που ενεργοποιείται η οθόνη</string>

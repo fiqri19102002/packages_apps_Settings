@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">Bergetar ketika bersambung</string>
     <string name="incall_vibrate_call_wait_title">Bergetar ketika menunggu panggilan</string>
     <string name="incall_vibrate_disconnect_title">Bergetar ketika terputus</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Notifikasi Menjengkelkan</string>
-    <string name="notification_sound_vib_screen_on_summary">Mainkan bunyi dan getaran untuk pemberitahuan apabila skrin dihidupkan</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">Kecerahan automatik satu tangkapan</string>
     <string name="auto_brightness_one_shot_summary">Pelarasan kecerahan akan berlaku apabila skrin dihidupkan</string>

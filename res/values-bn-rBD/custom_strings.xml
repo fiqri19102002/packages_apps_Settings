@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">সংযোগে ভাইব্রেট করুন</string>
     <string name="incall_vibrate_call_wait_title">কল ওয়েটিং এ ভাইব্রেট</string>
     <string name="incall_vibrate_disconnect_title">সংযোগ বিচ্ছিন্ন হলে ভাইব্রেট করুন</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">বিরক্তিকর নোটিফিকেশন</string>
-    <string name="notification_sound_vib_screen_on_summary">স্ক্রীন চালু থাকলে বিজ্ঞপ্তির জন্য শব্দ এবং কম্পন চালান</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">এক শট স্বয়ংক্রিয় উজ্জ্বলতা</string>
     <string name="auto_brightness_one_shot_summary">উজ্জ্বলতা সামঞ্জস্য শুধুমাত্র স্ক্রীন চালু করার মুহুর্তে ঘটবে</string>

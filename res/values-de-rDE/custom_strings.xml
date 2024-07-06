@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">Vibrieren bei Verbindung</string>
     <string name="incall_vibrate_call_wait_title">Beim Anklopfen vibrieren</string>
     <string name="incall_vibrate_disconnect_title">Vibrieren beim Trennen</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Störende Benachrichtigungen</string>
-    <string name="notification_sound_vib_screen_on_summary">Benachrichtigungstöne und Vibration bei eingeschaltetem Bildschirm</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">Autom. Helligkeitseinstellung nur einmalig vornehmen</string>
     <string name="auto_brightness_one_shot_summary">Helligkeitsanpassung erfolgt nur beim Einschalten des Bildschirms</string>

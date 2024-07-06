@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">Вибрация при соединении</string>
     <string name="incall_vibrate_call_wait_title">Вибрировать в ожидании вызова</string>
     <string name="incall_vibrate_disconnect_title">Вибрация при отключении</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Нежелательные уведомления</string>
-    <string name="notification_sound_vib_screen_on_summary">Проигрывать звук и вибрацию для уведомлений при включенном экране</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
     <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>

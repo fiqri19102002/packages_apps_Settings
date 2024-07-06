@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">接通时振动</string>
     <string name="incall_vibrate_call_wait_title">等待时振动</string>
     <string name="incall_vibrate_disconnect_title">挂断时振动</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">恼人通知</string>
-    <string name="notification_sound_vib_screen_on_summary">当屏幕开启时播放声音和振动通知</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">单次调节自适应亮度</string>
     <string name="auto_brightness_one_shot_summary">仅在点亮屏幕的那一刻调节一次亮度</string>

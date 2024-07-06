@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">कनेक्ट होने पर वाइब्रेट करें</string>
     <string name="incall_vibrate_call_wait_title">कॉल वेटिंग पर वाइब्रेट करें</string>
     <string name="incall_vibrate_disconnect_title">कॉल कटने पर वाइब्रेट करें</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">परेशान करने वाली सूचनाएं</string>
-    <string name="notification_sound_vib_screen_on_summary">स्क्रीन चालू होने पर सूचनाओं के लिए आवाज़ करें और वाइब्रेट करें</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
     <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>

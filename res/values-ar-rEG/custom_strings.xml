@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">إهتزاز عند الإتصال</string>
     <string name="incall_vibrate_call_wait_title">إهتزاز أثناء انتظار المكالمة</string>
     <string name="incall_vibrate_disconnect_title">إهتزاز عند قطع الاتصال</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">الاشعارات المزعجة</string>
-    <string name="notification_sound_vib_screen_on_summary">تشغيل الصوت والاهتزاز للإشعارات عندما تكون الشاشة قيد التشغيل</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
     <string name="auto_brightness_one_shot_summary">Brightness adjustment will only occur at the moment the screen is turned on</string>

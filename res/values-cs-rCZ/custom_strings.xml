@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">Zavibrovat při spojení</string>
     <string name="incall_vibrate_call_wait_title">Zavibrovat při dalším hovoru</string>
     <string name="incall_vibrate_disconnect_title">Zavibrovat při zavěšení</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Obtěžující oznámení</string>
-    <string name="notification_sound_vib_screen_on_summary">Přehrát zvuk a vibrovat při přijetí oznámení, když je obrazovka zapnutá</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">Rychlé nastavení automatického jasu</string>
     <string name="auto_brightness_one_shot_summary">K úpravě jasu dojde pouze v okamžiku zapnutí obrazovky</string>

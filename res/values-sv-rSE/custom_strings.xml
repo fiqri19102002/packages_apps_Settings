@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">Vibrera vid anslutning</string>
     <string name="incall_vibrate_call_wait_title">Vibrera vid samtal väntar</string>
     <string name="incall_vibrate_disconnect_title">Vibrera vid frånkoppling</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Irriterande notifikationer</string>
-    <string name="notification_sound_vib_screen_on_summary">Spela upp ljud och vibration för aviseringar när skärmen är på</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">Automatisk ljusstyrka en gång</string>
     <string name="auto_brightness_one_shot_summary">Justering av ljusstyrkan kommer endast att ske när skärmen slås på</string>

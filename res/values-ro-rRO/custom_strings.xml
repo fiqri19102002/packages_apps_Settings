@@ -234,9 +234,6 @@
     <string name="incall_vibrate_connect_title">Vibrare la conectare apel</string>
     <string name="incall_vibrate_call_wait_title">Vibrare la apel în așteptare</string>
     <string name="incall_vibrate_disconnect_title">Vibrează la deconectare apel</string>
-    <!-- Annoying Notifications -->
-    <string name="notification_sound_vib_screen_on_title">Notificare sonoră dacă este activ</string>
-    <string name="notification_sound_vib_screen_on_summary">Redă sunete și vibrații pentru notificări când ecranul este pornit</string>
     <!-- One shot automatic brightness -->
     <string name="auto_brightness_one_shot_title">Luminozitate automată instantă</string>
     <string name="auto_brightness_one_shot_summary">Ajustarea luminozității va avea loc doar în momentul în care ecranul este pornit</string>

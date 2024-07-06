@@ -30,9 +30,6 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">5G inteligent</string>
     <string name="smart_5g_summary">Comută automat între 5G și 4G pentru a reduce consumul bateriei</string>
-    <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">Ignoră semnalările sigure ale ferestrelor</string>
-    <string name="ignore_window_secure_summary">Elimină limitarea capturilor de ecran și înregistrărilor de ecran pentru toate aplicațiile. Acest lucru poate fi convenabil în unele cazuri, dar poate duce la scurgeri de confidențialitate.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Mai puțin de 1 minut</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->

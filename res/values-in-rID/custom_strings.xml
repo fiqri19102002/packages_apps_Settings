@@ -30,9 +30,6 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">5G Cerdas</string>
     <string name="smart_5g_summary">Secara otomatis beralih antara 5G dan 4G untuk mengurangi konsumsi baterai</string>
-    <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">Abaikan hamparan pengaman privasi</string>
-    <string name="ignore_window_secure_summary">Hapus tangkapan layar dan batas perekaman layar untuk semua aplikasi. Ini bisa nyaman dalam beberapa kasus tetapi dapat menyebabkan kebocoran privasi.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Kurang dari 1 Menit</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->

@@ -30,9 +30,6 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">স্মার্ট 5G</string>
     <string name="smart_5g_summary">ব্যাটারি ব্যবহার কমাতে স্বয়ংক্রিয়ভাবে 5G এবং 4G-এর মধ্যে পাল্টান</string>
-    <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">সুরক্ষিত উইন্ডো ফ্লাগ উপেক্ষা করুন</string>
-    <string name="ignore_window_secure_summary">সমস্ত অ্যাপের জন্য স্ক্রিনশট এবং স্ক্রিন রেকর্ডের সীমা সরান। এটি কিছু ক্ষেত্রে সুবিধাজনক হতে পারে কিন্তু গোপনীয়তা ফাঁস হতে পারে।</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Less than 1 Minute</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->

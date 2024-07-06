@@ -30,9 +30,6 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">Chytré 5G</string>
     <string name="smart_5g_summary">Automatické přepnutí mezi 5G a 4G ke snížení spotřeby baterie</string>
-    <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">Ignorovat příznaky zabezpečení oken</string>
-    <string name="ignore_window_secure_summary">Odstranění omezení pro pořizování snímků obrazovky a záznamů obrazovky pro všechny aplikace. To může být v některých případech výhodné, ale může to vést k úniku soukromí.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Méně než 1 minuta</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->

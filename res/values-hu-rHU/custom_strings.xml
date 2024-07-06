@@ -30,9 +30,6 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">Okos 5G</string>
     <string name="smart_5g_summary">Az akkufogyasztás csökkentése érdekében automatikusan vált az 5G és a 4G között</string>
-    <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">A biztonsági figyemeztetések figyelmen kívül hagyása</string>
-    <string name="ignore_window_secure_summary">Törli az összes alkalmazás képernyőkép- és képernyőfelvételi korlátját. Ez bizonyos esetekben kényelmes lehet, de adatlopáshoz vezethet.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Kevesebb mint 1 perc</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->

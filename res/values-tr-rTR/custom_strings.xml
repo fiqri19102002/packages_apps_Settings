@@ -30,9 +30,6 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">Akıllı 5G</string>
     <string name="smart_5g_summary">Pil tüketimini azaltmak için 5G ve 4G arasında otomatik olarak geçiş yapın</string>
-    <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">Pencere güvenlik işaretlerini yoksay</string>
-    <string name="ignore_window_secure_summary">Tüm uygulamalar için ekran görüntüsü ve ekran kaydı sınırlarını kaldırın. Bu bazı durumlarda kullanışlı olabilir ancak gizlilik sızıntılarına neden olabilir.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">1 dakikadan az</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->

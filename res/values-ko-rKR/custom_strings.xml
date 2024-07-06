@@ -30,10 +30,6 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">스마트 5G</string>
     <string name="smart_5g_summary">배터리 소모를 줄이기 위해 5G와 4G 사이를 자동으로 전환합니다.</string>
-    <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">창 보안 플래그 무시</string>
-    <string name="ignore_window_secure_summary">모든 앱들의 스크린샷 및 화면녹화 제한을 제거
-이 기능은 몇몇 경우에 편리하지만 개인정보 유출로 이어질 수 있습니다.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Less than 1 Minute</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->

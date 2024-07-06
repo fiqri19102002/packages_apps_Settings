@@ -30,9 +30,6 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">智能 5G</string>
     <string name="smart_5g_summary">自动在 5G 和 4G 之间切换以减少电量消耗</string>
-    <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">忽略某些应用禁止用户截取屏幕的标志</string>
-    <string name="ignore_window_secure_summary">移出所有应用程序的截图和录屏限制。这在某些情况下可能很方便，但可能导致隐私泄露。</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">少于 1 分钟</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->

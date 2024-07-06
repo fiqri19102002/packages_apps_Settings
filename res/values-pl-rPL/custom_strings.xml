@@ -30,9 +30,6 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">Smart 5G</string>
     <string name="smart_5g_summary">Automatycznie przełącza między 5G i 4G aby zredukować użycie baterii</string>
-    <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">Ignoruj bezpieczne flagi okna</string>
-    <string name="ignore_window_secure_summary">Usuń limity zrzutów ekranu i ekranu dla wszystkich aplikacji. Może to być wygodne w niektórych przypadkach, ale może prowadzić do wycieków prywatności.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Poniżej minuty</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->

@@ -30,9 +30,6 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">స్మార్ట్ 5G</string>
     <string name="smart_5g_summary">బ్యాటరీ వినియోగాన్ని తగ్గించడానికి 5G మరియు 4G మధ్య స్వయంచాలకంగా మారండి</string>
-    <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">విండోస్ సురక్షిత ఫ్లాగ్‌ను విస్మరించండి</string>
-    <string name="ignore_window_secure_summary">అన్ని యాప్‌ల కోసం స్క్రీన్‌షాట్ మరియు స్క్రీన్ రికార్డ్ పరిమితిని తీసివేయండి. ఇది కొన్ని సందర్భాల్లో సౌకర్యవంతంగా ఉంటుంది కానీ గోప్యతా లీక్‌లకు దారితీయవచ్చు.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">1 నిమిషం కంటే తక్కువ</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->

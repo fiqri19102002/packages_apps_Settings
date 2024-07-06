@@ -30,9 +30,6 @@
     <!-- Smart 5G -->
     <string name="smart_5g_title">Умный 5G</string>
     <string name="smart_5g_summary">Автоматическое переключение между 5G и 4G для снижения расхода батареи</string>
-    <!-- Ignore window secure -->
-    <string name="ignore_window_secure_title">Игнорировать флаги безопасности</string>
-    <string name="ignore_window_secure_summary">Снимите ограничения на скриншоты и записи экрана для всех приложений. В некоторых случаях это может быть удобно, но может привести к утечке конфиденциальной информации.</string>
     <!-- Default getTimeSpentInApp string for Wellbeing to display. [CHAR LIMIT=NONE] -->
     <string name="duration_less_than_one_minute">Менее 1 минуты</string>
     <!-- Summary for Wellbeing screen time usage. [CHAR LIMIT=NONE] -->

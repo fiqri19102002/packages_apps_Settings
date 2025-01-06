@@ -2803,7 +2803,7 @@
             android:screenOrientation="portrait"/>
 
         <activity android:name=".biometrics.face.FaceEnrollFinish"
-            android:exported="false"
+            android:exported="true"
             android:theme="@style/GlifV4Theme.DayNight"
             android:screenOrientation="portrait"/>
 
@@ -5062,6 +5062,19 @@
                 android:value="com.android.settings.wifi.calling.WifiCallingDisclaimerFragment" />
             <meta-data android:name="com.android.settings.HIGHLIGHT_MENU_KEY"
                        android:value="@string/menu_key_network"/>
+        </activity>
+
+        <activity
+            android:name=".Settings$WirelessDebuggingActivity"
+            android:label="@string/adb_wireless_settings"
+            android:exported="true"
+            android:icon="@drawable/tile_icon_debugging_wireless">
+            <intent-filter android:priority="1">
+                <action android:name="android.settings.WIRELESS_DEBUGGING_SETTINGS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <meta-data android:name="com.android.settings.FRAGMENT_CLASS"
+                android:value="com.android.settings.development.WirelessDebuggingFragment"/>
         </activity>
 
         <activity android:name="Settings$BatterySaverScheduleSettingsActivity"
